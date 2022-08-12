@@ -93,7 +93,6 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: 'teal',
   },
-  btnIcon: {height: 20, width: 20},
   Image: {
     flex: 1,
     width: 110,
@@ -113,12 +112,6 @@ const styles = StyleSheet.create({
     borderTopColor: 'red',
     flex: 1,
   },
-  icon: {
-    color: 'white',
-    height: 25,
-    width: 25,
-    alignSelf: 'flex-end',
-  },
 
   book: {
     width: '90%',
@@ -137,10 +130,6 @@ const styles = StyleSheet.create({
     fontSize: 15,
     color: 'black',
     marginRight: 10,
-  },
-  details: {
-    fontSize: 14,
-    color: 'grey',
   },
 });
 
